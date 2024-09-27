@@ -1,0 +1,8 @@
+.col{
+    font-weight:600;
+    padding:10px;
+    margin:5px;
+    background-color:lightyellow;
+    border-color:lightyellow;
+    box-shadow:3px 3px 3px;
+}
